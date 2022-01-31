@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "e29b4f7c-a4dd-4dc6-b167-2689f7b3cec1",
+		"name": "Cinema Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "DashBoard",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "DashBoard Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
